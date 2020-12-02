@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImpIntentMailApp</string>
+    <string name="string_send">send</string>
+</resources>
